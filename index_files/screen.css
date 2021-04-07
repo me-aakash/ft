@@ -523,7 +523,7 @@ ul li {
 }
 .post-holder.odd {
   background: #3A4145;
-  color: #3A414;
+  color: #ECECEC;
 }
 
 /* Every post, on every page, gets this style on its <article> tag */
