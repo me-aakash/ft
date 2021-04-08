@@ -522,8 +522,8 @@ ul li {
   position: relative;
 }
 .post-holder.odd {
-  background: #3A4145;
-  color: #ECECEC;
+  background: #f2efe8;
+  color: #3A4145;
 }
 
 /* Every post, on every page, gets this style on its <article> tag */
@@ -1105,7 +1105,6 @@ a.fn-item.active {
     font-size: 1.1rem;
   }
 }
-
 /* ==========================================================================
       End of file. Media queries should be the last thing here. Do not add stuff
       below this point, or it will probably fuck everything up.
